@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FootballNote</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name:</string>
+    <string name="amount">Amount:</string>
+    <string name="today_date">Today date</string>
+    <string name="paid">Paid</string>
+    <string name="not_paid">Not Paid</string>
+    <string name="confirm">Confirm</string>
+    <string name="date_fromat">12/21/2021</string>
+    <string name="note">Note</string>
+</resources>
